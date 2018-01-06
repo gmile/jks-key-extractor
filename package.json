@@ -1,0 +1,17 @@
+{
+  "name": "jks-key-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jksreader": "^1.0.0"
+  },
+  "bin": {
+    "jks-key-extractor": "bin/index.js"
+  }
+}
